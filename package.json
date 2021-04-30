@@ -1,0 +1,28 @@
+{
+  "name": "miio-token-extractor",
+  "version": "1.0.0",
+  "description": "This tool/script retrieves tokens for all devices connected to Xiaomi cloud",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexpts/nodejs-miio-token-extractor"
+  },
+  "author": "alexpts",
+  "license": "MIT",
+  "keywords": [
+    "miio",
+    "token",
+    "mijia",
+    "extractor"
+  ],
+  "dependencies": {
+    "cookie": "^0.4.1",
+    "node-fetch": "^2.6.1"
+  },
+  "devDependencies": {
+    "inquirer": "^8.0.0"
+  },
+  "engines": {
+    "node": ">=14"
+  }
+}
