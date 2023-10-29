@@ -16,11 +16,11 @@
     "extractor"
   ],
   "dependencies": {
-    "cookie": "^0.4.1",
-    "node-fetch": "^2.6.1"
+    "cookie": "^0.4.2",
+    "node-fetch": "^2.7.0"
   },
   "devDependencies": {
-    "inquirer": "^8.0.0"
+    "inquirer": "^8.2.6"
   },
   "engines": {
     "node": ">=14"
